@@ -26,7 +26,7 @@ function App() {
     React.createElement("div", { className: "App" }, /*#__PURE__*/
     React.createElement(BurgerDrum, null), /*#__PURE__*/
     React.createElement("a", { href: "https://youtu.be/VtmsuVT7BGI", target: "_blank", className: "component-carousel" }, /*#__PURE__*/
-    React.createElement("span", null, "Watch us make this on"), /*#__PURE__*/
+    React.createElement("span", null, "."), /*#__PURE__*/
     React.createElement("img", { src: "https://assets.codepen.io/557388/component-carousel.png", alt: "Component Carousel" }))));
 
 
@@ -63,17 +63,17 @@ function BurgerDrum() {
     React.createElement("div", { className: `burger-drum ${view}` }, /*#__PURE__*/
     React.createElement("div", { className: "container", ref: mount }), /*#__PURE__*/
     React.createElement("div", { className: "info" }, /*#__PURE__*/
-    React.createElement("p", { className: "presents" }, "Buns N' Roses presents:"), /*#__PURE__*/
+    React.createElement("p", { className: "presents" }, "."), /*#__PURE__*/
     React.createElement("h1", null, "Beat Burger"), /*#__PURE__*/
-    React.createElement("p", null, "Our signature burger, inspired by legendary drummer ", /*#__PURE__*/React.createElement("i", null, "[your favorite drummer here]"), ". Order online now ", /*#__PURE__*/React.createElement("i", null, "(or don't because this is all pretend)"), " or transform this burger into a drum kit and play some sweet beats!"), /*#__PURE__*/
+    React.createElement("p", null, ". ", /*#__PURE__*/React.createElement("i", null, "."), ".  ", /*#__PURE__*/React.createElement("i", null, "."), " !"), /*#__PURE__*/
     React.createElement("div", { className: "buttons" }, /*#__PURE__*/
-    React.createElement("button", { disabled: true }, "Order now"), /*#__PURE__*/
+    React.createElement("button", { disabled: true }, "."), /*#__PURE__*/
     React.createElement("button", { onClick: toggleView }, "Play"))), /*#__PURE__*/
 
 
     React.createElement("div", { className: "controls" }, /*#__PURE__*/
     React.createElement("button", { onClick: toggleView }, "Back"), /*#__PURE__*/
-    React.createElement("div", null, ".. ", /*#__PURE__*/React.createElement("span", null, "Q"), /*#__PURE__*/React.createElement("span", null, "W"), /*#__PURE__*/React.createElement("span", null, "E"), /*#__PURE__*/React.createElement("span", null, "R"), /*#__PURE__*/React.createElement("span", null, "T"), /*#__PURE__*/React.createElement("span", null, "Y"), /*#__PURE__*/React.createElement("span", null, "U"))), /*#__PURE__*/
+    React.createElement("div", null, ". ", /*#__PURE__*/React.createElement("span", null, "."), /*#__PURE__*/React.createElement("span", null, "."), /*#__PURE__*/React.createElement("span", null, "."), /*#__PURE__*/React.createElement("span", null, "."), /*#__PURE__*/React.createElement("span", null, "."), /*#__PURE__*/React.createElement("span", null, "."), /*#__PURE__*/React.createElement("span", null, "."))), /*#__PURE__*/
     React.createElement("div", { className: "loader" }, "\uD83E\uDD18 Loading \uD83E\uDD18")));
 
 

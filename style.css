@@ -8,13 +8,13 @@
 
 .component-carousel {
   position: absolute;
-  top: 20px;
-  right: 20px;
+  top: 10px;
+  right: 10px;
   flex-direction: column;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgb(27, 22, 22);
+  color: rgb(27, 25, 25);
   text-decoration: none;
   transition: transform 0.2s ease-in-out;
 }
